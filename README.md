@@ -6,11 +6,6 @@ The simulated project will be a game named "JANE".
 ![Jack Screenshot](img/JANE.png)
 Meet JANE, the blue stickwoman, living in this box world. Soon her world will be filled with many interesting features and things by us humans.
 
-## Roadmap
-- Character Jane - DONE
-- User Interface
-- Settings
-
 ## Installation
 1. Install a photo viewer of your choice.
 2. Save the image above.
